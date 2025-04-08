@@ -1,11 +1,11 @@
 import React from "react";
-import "../Styles/footer.css";
+import "../Styles/Footer.css";
 
 function Footer() {
   return (
     <div id="copyright">
       <div className="wrapper">
-        &copy; 2025. <b>RumahRafif.</b> All Rights Reserved.
+        &copy; 2025. <b>Ferdy</b> All Rights Reserved.
       </div>
     </div>
   );
